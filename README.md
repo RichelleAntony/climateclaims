@@ -1,9 +1,11 @@
 # climateclaims
 Climate Claims Assignment
 # Top-5 List of Articles
-*URL to the claim’s source:* https://wattsupwiththat.com/2025/10/21/oh-the-horror-climate-change-to-make-more-rain-in-the-sahara-desert/
-*1-2 sentence summary of the claim:* A climatically dry region (the Sahara Desert) is expected to increase in rainfall by 75% as a consequence of global warming.
-*1-2 sentence explanation of why it prompted you to rethink or question your current views:* I anticipated that dry regions would increase due to climate change, increasing the overall frequency and severity of droughts globally. Rising temperatures increase evaporation, so the increase in precipitation was contradictory to my prediction.
+**URL to the claim’s source:** https://wattsupwiththat.com/2025/10/21/oh-the-horror-climate-change-to-make-more-rain-in-the-sahara-desert/
+
+**1-2 sentence summary of the claim:** A climatically dry region (the Sahara Desert) is expected to increase in rainfall by 75% as a consequence of global warming.
+
+**1-2 sentence explanation of why it prompted you to rethink or question your current views:** I anticipated that dry regions would increase due to climate change, increasing the overall frequency and severity of droughts globally. Rising temperatures increase evaporation, so the increase in precipitation was contradictory to my prediction.
 
 *URL to the claim’s source:* https://wattsupwiththat.com/2025/10/21/oh-the-horror-climate-change-to-make-more-rain-in-the-sahara-desert/
 *1-2 sentence summary of the claim:* The theoretical threats associated with climate change are a cash grab (“Catastrophic Anthropogenic (Human-caused) Global Warming: CAGW”) exploited by environmental groups. There is evidence that climate change is largely driven by the Sun, and not carbon dioxide. 
