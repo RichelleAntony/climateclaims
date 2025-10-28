@@ -31,3 +31,4 @@ Climate Claims Assignment
 
 **1-2 sentence explanation of why it prompted you to rethink or question your current views:** I had expected global warming to cause equally noticeable temperature increases, and was not anticipating a distinction to occur between the hottest and coolest days. This claim also suggests that the reduction of urbanization reduces warming in a local context, explaining differences in warming distribution.
 
+# 600-word Climate Claims
