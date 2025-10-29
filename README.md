@@ -49,10 +49,10 @@ Biasutti, M. 2013. “Forced Sahel Rainfall Trends in the CMIP5 Archive - Biasut
 Kurtzweil, Jenna. 2025. “Rain in the Sahara? UIC Researchers Predict a Wetter Future for the 
 Desert | UIC Today.” University of Illinois System. UIC Today. https://today.uic.edu/rain-in-the-sahara-uic-researchers-predict-a-wetter-future-for-the-desert/.
 
-Monerie, Paul-Arthur, Emilia Sanchez-Gomez, and Julien Boé. 2017. “On the Range of Future Sahel Precipitation Projections and the Selection of a Sub-Sample of CMIP5 Models for Impact Studies.” Climate Dynamics 48 (7): 2751–70. https://doi.org/10.1007/s00382-016-3236-y.
+Monerie, Paul-Arthur, Emilia Sanchez-Gomez, and Julien Boé. 2017. “On the Range of Future Sahel Precipitation Projections and the Selection of a Sub-Sample of CMIP5 Models for Impact Studies.” *Climate Dynamics* 48 (7): 2751–70. https://doi.org/10.1007/s00382-016-3236-y.
 
 Sylla, Mouhamadou Bamba, Pinghouinde Michel Nikiema, Peter Gibba, Ibourahima Kebe, and Nana Ama Browne Klutse. 2016. “Climate Change over West Africa: Recent Trends and 
-Future Projections.” In Adaptation to Climate Change and Variability in Rural West Africa, edited by Joseph A. Yaro and Jan Hesselberg. Springer International Publishing. https://doi.org/10.1007/978-3-319-31499-0_3.
+Future Projections.” In *Adaptation to Climate Change and Variability in Rural West Africa*, edited by Joseph A. Yaro and Jan Hesselberg. Springer International Publishing. https://doi.org/10.1007/978-3-319-31499-0_3.
 
 Taguela, Thierry N., Akintomide A. Akinsanola, Tolulope E. Adeliyi, Alan Rhoades, and Robert H. Nazarian. 2025. “Understanding Drivers and Uncertainty in Projected African 
 Precipitation.” Npj Climate and Atmospheric Science 8 (1): 222. https://doi.org/10.1038/s41612-025-01123-8.
