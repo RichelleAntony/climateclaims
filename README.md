@@ -53,3 +53,6 @@ Monerie, Paul-Arthur, Emilia Sanchez-Gomez, and Julien Boé. 2017. “On the Ran
 
 Sylla, Mouhamadou Bamba, Pinghouinde Michel Nikiema, Peter Gibba, Ibourahima Kebe, and Nana Ama Browne Klutse. 2016. “Climate Change over West Africa: Recent Trends and 
 Future Projections.” In Adaptation to Climate Change and Variability in Rural West Africa, edited by Joseph A. Yaro and Jan Hesselberg. Springer International Publishing. https://doi.org/10.1007/978-3-319-31499-0_3.
+
+Taguela, Thierry N., Akintomide A. Akinsanola, Tolulope E. Adeliyi, Alan Rhoades, and Robert H. Nazarian. 2025. “Understanding Drivers and Uncertainty in Projected African 
+Precipitation.” Npj Climate and Atmospheric Science 8 (1): 222. https://doi.org/10.1038/s41612-025-01123-8.
